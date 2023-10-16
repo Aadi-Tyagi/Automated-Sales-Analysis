@@ -1,1 +1,1 @@
-# Automated-Sales-Analysis
+# Selenium-driven Data Harvesting and Sales Trends Analysis
